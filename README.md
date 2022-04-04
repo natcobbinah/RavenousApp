@@ -1,5 +1,5 @@
-#Info
-This webApp is a demo of a business search site using yelpAPI to find business and their related information, saving users time and stress in searching for a business
+# Info
+This webApp is a demo of a business search site using yelpAPI and React library to find business and their related information, saving users time and stress in searching for a business
 need nearby or anywhere around the globe
 
 # Getting Started with Create React App
