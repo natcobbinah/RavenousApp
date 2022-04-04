@@ -1,3 +1,7 @@
+#Info
+This webApp is a demo of a business search site using yelpAPI to find business and their related information, saving users time and stress in searching for a business
+need nearby or anywhere around the globe
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
